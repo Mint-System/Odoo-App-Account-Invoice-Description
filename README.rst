@@ -6,7 +6,7 @@ Account Invoice Description
   :width: 100
   :alt: Icon
 
-Module summary.
+Add description to invoice form and report.
 
 Usage
 ~~~~~
