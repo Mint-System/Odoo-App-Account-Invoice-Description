@@ -16,6 +16,9 @@
                         </div>
                     </t>
                 </xpath>
+                <xpath expr="/t/t/div/h2" position="attributes">
+                    <attribute name="style" separator=";" add="margin-top:15px"/>
+                </xpath>
             </data>
         </field>
         <field name="inherit_id" ref="account.report_invoice_document"/>
